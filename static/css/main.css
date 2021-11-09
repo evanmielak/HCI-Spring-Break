@@ -1,6 +1,8 @@
 body, html {
     margin: 0;
     font-family: sans-serif;
+    background-color: #4F4F5B;
+    color: #FFFFFF;
 }
 
 .content {
@@ -32,4 +34,20 @@ td {
 
 #content {
     width: 70%;
+}
+form.login {
+    display: table;
+}
+
+div.login {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
 }
