@@ -55,3 +55,14 @@ label {
 a {
     color: #FFFFFF;
 }
+
+.edit-div{
+    padding: 50px;
+}
+
+.edit{
+    width: 300px;
+    height: 100px;
+    border-color: #BBA0FB;
+    background-color: #BBA0FB;
+}
